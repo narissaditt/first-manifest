@@ -29,7 +29,7 @@ spec:
         app: my-first-app
     spec:
       containers:
-      - image: ghcr.io/narissaditt/ja-deploy:v1.0.0
+      - image: ghcr.io/narissaditt/ja-deploy:v1.0.1
         name: my-first-app
         ports:
         - containerPort: 80
